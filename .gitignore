@@ -1,0 +1,5 @@
+*.a
+
+cmake-build-debug/
+
+CMakeFiles/
