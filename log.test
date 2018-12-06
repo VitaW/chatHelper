@@ -1,0 +1,52 @@
+[2018-06-19 00:00:40.081328]: [info]new connector : 59.37.125.37
+[2018-06-19 00:00:40.081874]: [info]Http request state : Good by 59.37.125.37
+[2018-06-19 00:00:40.081980]: [info]Client Json request good
+[2018-06-19 00:00:40.086339]: [error]client request error
+[2018-06-19 00:00:40.086339]: [info]
+[2018-06-19 00:00:40.086339]: [error]/home/ubuntu/mini/MiniServer.cpp : 131Client request bad
+[2018-06-19 00:00:47.479594]: [info]new connector : 59.37.125.37
+[2018-06-19 00:00:47.481674]: [info]Http request state : Good by 59.37.125.37
+[2018-06-19 00:00:47.481674]: [info]Client Json request good
+[2018-06-19 00:00:47.487672]: [error]client request error
+[2018-06-19 00:00:47.487672]: [info]
+[2018-06-19 00:00:47.487672]: [error]/home/ubuntu/mini/MiniServer.cpp : 131Client request bad
+[2018-06-19 00:01:48.093453]: [info]new connector : 59.37.125.37
+[2018-06-19 00:01:48.093846]: [info]Http request state : Good by 59.37.125.37
+[2018-06-19 00:01:48.093961]: [info]Client Json request good
+[2018-06-19 00:01:48.094332]: [info]select corpus, hot from hottopic_table where hottopictype=19 order by hot desc limit 10201,101
+[2018-06-19 00:01:48.094610]: [info]select
+[2018-06-19 00:02:26.448439]: [info]new connector : 59.37.125.37
+[2018-06-19 00:02:26.448809]: [info]Http request state : Good by 59.37.125.37
+[2018-06-19 00:02:26.449003]: [info]Client Json request good
+[2018-06-19 00:02:26.449443]: [info]select corpus, hot from hottopic_table where hottopictype=19 order by hot desc limit 10201,101
+[2018-06-19 00:02:26.449753]: [info]select
+[2018-06-19 00:02:42.089388]: [info]new connector : 59.37.125.37
+[2018-06-19 00:02:42.089731]: [info]Http request state : Good by 59.37.125.37
+[2018-06-19 00:02:42.089834]: [info]Client Json request good
+[2018-06-19 00:02:42.090262]: [info]select corpus, hot from hottopic_table where hottopictype=18 order by hot desc limit 10201,101
+[2018-06-19 00:02:42.090593]: [info]select
+[2018-06-19 00:03:40.233148]: [info]new connector : 59.37.125.37
+[2018-06-19 00:03:40.233683]: [info]Http request state : Good by 59.37.125.37
+[2018-06-19 00:03:40.233792]: [info]Client Json request good
+[2018-06-19 00:03:40.234225]: [info]select corpus, hot from hottopic_table where hottopictype=18 order by hot desc limit 0,10
+[2018-06-19 00:03:40.234567]: [info]select
+[2018-06-19 00:04:05.939898]: [info]new connector : 183.40.77.9
+[2018-06-19 00:04:05.968419]: [info]Http request state : Good by 183.40.77.9
+[2018-06-19 00:04:05.968605]: [info]Client Json request good
+[2018-06-19 00:04:05.969141]: [info]select corpus,hot from topic_table where topictype=11 order by hot desc limit 0,10
+[2018-06-19 00:04:05.969562]: [info]select
+[2018-06-19 00:05:29.628294]: [info]new connector : 59.37.125.37
+[2018-06-19 00:05:29.628707]: [info]Http request state : Good by 59.37.125.37
+[2018-06-19 00:05:29.628835]: [info]Client Json request good
+[2018-06-19 00:05:29.629318]: [info]select corpus, hot from hottopic_table where hottopictype=25 order by hot desc limit 0,10
+[2018-06-19 00:05:29.629635]: [info]select
+[2018-06-19 00:05:55.739416]: [info]new connector : 59.37.125.37
+[2018-06-19 00:05:55.739942]: [info]Http request state : Good by 59.37.125.37
+[2018-06-19 00:05:55.740087]: [info]Client Json request good
+[2018-06-19 00:05:55.740527]: [info]select corpus, hot from hottopic_table where hottopictype=23 order by hot desc limit 0,10
+[2018-06-19 00:05:55.740873]: [info]select
+[2018-06-19 00:06:08.105286]: [info]new connector : 59.37.125.37
+[2018-06-19 00:06:08.105841]: [info]Http request state : Good by 59.37.125.37
+[2018-06-19 00:06:08.106034]: [info]Client Json request good
+[2018-06-19 00:06:08.106537]: [info]select corpus, hot from hottopic_table where hottopictype=25 order by hot desc limit 0,10
+[2018-06-19 00:06:08.106863]: [info]select
