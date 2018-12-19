@@ -1,7 +1,3 @@
-//
-// Created by sida liang on 2018/6/12.
-//
-
 #include <boost/utility/string_view.hpp>
 #include "MySql.h"
 #include "Log.h"

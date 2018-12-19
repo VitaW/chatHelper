@@ -1,7 +1,3 @@
-//
-// Created by sida liang on 2018/6/7.
-//
-
 #ifndef MINI_TCPCONNECTION_H
 #define MINI_TCPCONNECTION_H
 #include <memory>

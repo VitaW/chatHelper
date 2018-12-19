@@ -1,6 +1,3 @@
-//
-// Created by sida liang on 2018/6/7.
-//
 
 #ifndef MINI_MINISERVER_H
 #define MINI_MINISERVER_H

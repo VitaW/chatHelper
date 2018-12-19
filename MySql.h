@@ -1,7 +1,3 @@
-//
-// Created by sida liang on 2018/6/12.
-//
-
 #ifndef MINI_MYSQL_H
 #define MINI_MYSQL_H
 #include <mysql/mysql.h>

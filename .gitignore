@@ -1,5 +1,9 @@
-*.a
+# excutables
+*.out
+*.exe
+*.app
 
-cmake-build-debug/
-
+# 忽略idea
+.idea/
 CMakeFiles/
+cmake-build-debug/

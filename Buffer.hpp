@@ -1,11 +1,3 @@
-//
-//  Buffer.hpp
-//  source
-//
-//  Created by sida liang on 2018/4/26.
-//  Copyright © 2018年 sida liang. All rights reserved.
-//
-
 #ifndef Buffer_hpp
 #define Buffer_hpp
 #include <vector>

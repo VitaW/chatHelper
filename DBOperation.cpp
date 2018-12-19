@@ -123,7 +123,6 @@ void Parser::_do_Reply(ClientReq& cli,const char *corpus,int pageNo,int pageSize
 
 void Parser::_doHi_Table(ClientReq& cli,const char *corpus,int hi_type,int _do,int pageNo,int pageSize)
 {
-		
 		switch (_do)
 		 {
 		 case 0:

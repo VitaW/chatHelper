@@ -1,11 +1,3 @@
-//
-//  Buffer.cpp
-//  source
-//
-//  Created by sida liang on 2018/4/26.
-//  Copyright © 2018年 sida liang. All rights reserved.
-//
-
 #include "Buffer.hpp"
 #include <string.h>
 int Buffer::readable() const

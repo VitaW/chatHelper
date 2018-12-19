@@ -1,7 +1,3 @@
-//
-// Created by sida liang on 2018/6/13.
-//
-
 #include "Manager.h"
 #include "Log.h"
 #include "MiniServer.h"

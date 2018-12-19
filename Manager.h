@@ -1,7 +1,3 @@
-//
-// Created by sida liang on 2018/6/13.
-//
-
 #ifndef MINI_MANAGER_H
 #define MINI_MANAGER_H
 #include <boost/utility/string_view.hpp>
